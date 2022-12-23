@@ -1,0 +1,3 @@
+/home/alexandre/Documents/Prog3D/Textures/prog-3D-2022-main1/template/build/CMakeFiles/tp.dir
+/home/alexandre/Documents/Prog3D/Textures/prog-3D-2022-main1/template/build/CMakeFiles/edit_cache.dir
+/home/alexandre/Documents/Prog3D/Textures/prog-3D-2022-main1/template/build/CMakeFiles/rebuild_cache.dir

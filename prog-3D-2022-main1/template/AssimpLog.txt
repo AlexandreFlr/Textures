@@ -1,0 +1,11 @@
+Info,  T0: Load data/cube.obj
+Info,  T0: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T0: Import root directory is 'data/'
+Error, T0: OBJ: Unable to locate material file cube.mtl
+Info,  T0: OBJ: Opening fallback material file data/cube.mtl
+Error, T0: OBJ: Unable to locate fallback material file data/cube.mtl
+Error, T0: OBJ: failed to locate material cube, creating new material
+Info,  T0: Entering post processing pipeline
+Info,  T0: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T0: JoinVerticesProcess finished | Verts in: 36 out: 24 | ~33.3333
+Info,  T0: Leaving post processing pipeline
